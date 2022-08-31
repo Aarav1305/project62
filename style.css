@@ -1,0 +1,25 @@
+body{
+text-align:center;  
+background:linear-gradient(white 0%,grey 100%);
+background-repeat:no-repeat;
+}
+h1{
+  font-size:30px;
+  text-shadow:lightgrey; 
+}
+#bio{
+    padding:20px;
+    font-size:20;
+    text-align:center;
+}
+img{
+    border-radius:53%;
+    width:110px;
+}
+h2{
+    font-size:50px;
+    font-family: 'Cinzel Decorative', cursive;
+}
+.menu{
+    
+}
